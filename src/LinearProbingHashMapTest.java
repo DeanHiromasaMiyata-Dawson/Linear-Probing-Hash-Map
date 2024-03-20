@@ -16,7 +16,7 @@ import static org.junit.Assert.assertTrue;
 /**
  * JUnit tests for LinearProbingHashMap.
  */
-public class LinearProbingHashMapStudentTest {
+public class LinearProbingHashMapTest {
 
     private static final int TIMEOUT = 200;
     private LinearProbingHashMap<Integer, String> map;
